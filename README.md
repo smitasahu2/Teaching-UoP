@@ -11,4 +11,6 @@ Within this folder are three items accompanied by complete instructions.
 
 Please note that this additional material is provided solely to enhance your understanding of the concept. The included code is not part of the assessment and is intended purely for your personal learning.
 
+Parameters_Lorenz_System.ipynb : Is the solution of Lorenz system and parameter manipulation 
+
 Statistical Learning: Will update soon
